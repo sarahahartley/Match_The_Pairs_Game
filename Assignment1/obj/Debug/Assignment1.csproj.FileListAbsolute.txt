@@ -1,0 +1,34 @@
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form2.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form3.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form4.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form5.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form6.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form7.resources
+C:\Users\amygo\OneDrive\Documents\University\Year 2\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form8.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form2.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form3.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form4.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form5.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form6.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form7.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Form8.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\sarahhartley\Downloads\Computer Systems 2B\Computer Systems 2B\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
